@@ -11,7 +11,7 @@ In this repository I will show the results of my master thesis, the relevant cod
 
 The data used for this project comes from the NuScene dataset.
 
-Due to the limitation of computational resource(RTX4090) and training time(10 hour), I can only generate finally the best reconstructed effect with 26.82 PSNR and 0.8488 SSIM. I believe the performance can be further enhance in the future.
+Due to the limitation of computational resource(RTX4090) and training time(10 hour), I can only generate finally reconstructed effect with 26.82 PSNR and 0.8488 SSIM. I believe the performance can be further enhance in the future.
 
 
 
